@@ -1,55 +1,9 @@
-# Session 1: Introduction to OOP and Basic Java Programming
+# Fundamental Programming Constructs: Conditional statements (if-else), loops (for, while), arrays, and basic input/output.
 
-This repository contains materials and solutions for Session 1, focusing on introducing Object-Oriented Programming (OOP) concepts and basic Java programming.
 
-## Intended Learning Outcomes
+This repository contains materials and solutions focusing on introducing Object-Oriented Programming (OOP) concepts and basic Java programming.
 
-* Get up and running with Java programming.
-* Appreciate the Java programming language.
 
-## Expected Skills
-
-* **Basic Java:**
-    * Understanding of the Java Virtual Machine (JVM) and its workflow.
-    * Knowledge of the Java Development Kit (JDK) and its necessity.
-    * Ability to verify JDK installation using the command line.
-    * Installation and usage of an Integrated Development Environment (IDE) like Eclipse or NetBeans.
-    * Project creation, class creation, code writing, and program execution within an IDE.
-    * Basic input/output operations (printing/scanning).
-    * Understanding and usage of various data types (int, long, double, char, byte, short).
-    * Basic Java programming proficiency.
-    * Implementation of `if-else` conditional statements.
-    * Implementation of `for` and `while` loops.
-
-## Tools Required
-
-* JDK (Java Development Kit)
-* Eclipse or NetBeans IDE
-
-## Session Details
-
-1.  **Introduction to Java:**
-    * An introductory lecture on the fundamentals of Java and its significance.
-2.  **Java Environment Setup:**
-    * Guidance on setting up the Java development environment.
-3.  **JVM and JDK:**
-    * Explanation of the JVM and JDK, including a visual representation of the JVM workflow.
-    * Demonstration of checking JDK installation and installation procedures.
-4.  **IDE Installation and Project Creation:**
-    * Instructions on installing an IDE and creating a new Java project.
-    * Assistance to ensure all students are able to create a project in the IDE.
-5.  **Basic Syntax:**
-    * Explanation of the fundamental syntax of Java.
-6.  **Java Naming Conventions:**
-    * Guidelines for proper naming conventions in Java.
-7.  **Basic Java Programming:**
-    * Introduction to basic Java programming concepts.
-8.  **Exercises:**
-    * Practical exercises on conditional statements, loops, arrays, and strings.
-
-## Post-Lab Exercises
-
-This section contains solutions to the post-lab exercises.
 
 ### a. Temperature Conversion (Fahrenheit to Celsius)
 
@@ -64,7 +18,7 @@ This section contains solutions to the post-lab exercises.
 3.  **Alternating Series:**
     * `AlternatingSeries.java`: Calculates the sum of the series 1 - 2 + 3 - 4 + ... up to n terms.
 4.  **Factorial Calculation:**
-    * `Factorial.java`: Calculates the factorial of a given number.
+    * `FactorialOfANumber.java`: Calculates the factorial of a given number.
 5.  **Power Calculation:**
     * `Power.java`: Calculates the power of a given base raised to an exponent.
 6.  **Bangla Season Finder:**
