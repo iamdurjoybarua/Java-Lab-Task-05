@@ -1,13 +1,16 @@
 # Fundamental Programming Constructs: Conditional statements (if-else), loops (for, while), arrays, and basic input/output.
 
 
+
 This repository contains materials and solutions focusing on introducing Object-Oriented Programming (OOP) concepts and basic Java programming.
+
 
 
 
 ### a. Temperature Conversion (Fahrenheit to Celsius)
 
 * `FahrenheitToCelsius.java`: Converts temperature from Fahrenheit to Celsius.
+
 
 ### b. Java Programming Problems
 
